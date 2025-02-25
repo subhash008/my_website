@@ -1,0 +1,4 @@
+env.txt
+*.log
+something_protected.txt
+index.html
